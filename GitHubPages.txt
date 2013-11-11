@@ -1,0 +1,17 @@
+GitHub pages
+
+http://pages.github.com/
+https://help.github.com/categories/20/articles
+https://help.github.com/articles/creating-project-pages-manually
+
+http://www.thinkful.com/learn/a-guide-to-using-github-pages/
+http://webdesign.tutsplus.com/tutorials/applications/getting-to-know-github-pages-static-project-pages-fast/
+
+
+
+http://octopress.org/docs/deploying/github/
+
+
+	With Github Project pages (gh-pages)
+
+	Github's Project Pages service allows you to host a site for your existing open source project. Github will look for a gh-pages branch in your project's repository and make the contents available at url like http://username.github.io/project
